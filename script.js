@@ -115,6 +115,3 @@ function upDateCart() {
     c("aside").classList.remove("show");
   }
 }
-
-//432423423
-//543543534543543
